@@ -6,10 +6,10 @@
 # 모델
 yolov5
 
-# 사용한 프로그램
+# 사용 프로그램
 Visual Studio Code
 
-# 사용한 언어
+# 사용 언어
 Python
 
 # 사용 방법
